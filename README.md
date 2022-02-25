@@ -1,8 +1,8 @@
 - 👋 Hi, I’m <em>CPKdev</em> (<b>Callum Kiely) </b>
-- 👀 I’m interested in <em>web development</em>
-- 🌱 I’m currently learning <em>HTML</em> <em>CSS</em> & <em>JavaScript</em>
-- 💞️ I’m looking to collaborate on Web projects
-- 📫 How to reach me, email: contact@cpkdev.net
+- �I’m interested in <em>web development</em>
+- �I’m currently learning <em>HTML</em> <em>CSS</em> & <em>JavaScript</em>
+- �I’m looking to collaborate on Web projects
+- How to reach me, email: contact@cpkdev.net
 
 
 <!---
